@@ -1,1 +1,0 @@
-# kiran-professional-recognitions

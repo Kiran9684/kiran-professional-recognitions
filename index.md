@@ -1,3 +1,6 @@
+<style>
+  .btn { display: none; }
+</style>
 # Professional Achievements & Recognitions
 
 This page highlights appreciations and recognitions received during my career across multiple organizations.

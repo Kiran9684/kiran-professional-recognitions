@@ -56,6 +56,7 @@ Across my career, I have consistently been recognized for:
 - **Technical Excellence** in .NET, MVC, EF Core, and system migrations.
 - **Collaboration & Teamwork** in cross-functional projects.
 - **Leadership & Initiative** in driving projects to success under challenging circumstances.
+
 <hr>
 <p style="text-align:center; font-size:14px; color:gray;">
   © 2026 Kiran BS · 
